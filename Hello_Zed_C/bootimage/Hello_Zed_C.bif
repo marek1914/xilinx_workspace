@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = MCS
+the_ROM_image:
+{
+	[bootloader]/home/sdelcore/Projects/xilinx_workspace/ZED_FSBL/Debug/ZED_FSBL.elf
+	/home/sdelcore/Projects/xilinx_workspace/hw_plaform_0/System_wrapper.bit
+	/home/sdelcore/Projects/xilinx_workspace/Hello_Zed_C/Debug/Hello_Zed_C.elf
+}
